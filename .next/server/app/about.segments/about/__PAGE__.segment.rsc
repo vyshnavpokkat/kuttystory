@@ -1,0 +1,29 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/1zktcqh4wnp0f.js"
+3:I[58562,["$2"],"Header"]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+6:I[58562,["$2"],"Footer"]
+d:I[22016,["$2"],""]
+e:I[97367,["$2"],"OutletBoundary"]
+f:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[97367,["$2"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$2"],"$14"]
+:HL["/_next/static/chunks/3qdv0bwm7n4cm.css","style"]
+8:X
+b:X
+b:C
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"children":[["$","section",null,{"className":"page-hero wrap","children":[["$","p",null,{"className":"eyebrow","children":"Our philosophy"}],["$","h1",null,{"children":["Every little life holds a story ",["$","i",null,{"children":"worth telling."}]]}],["$","p",null,{"className":"lead","children":"Childhood passes quickly. The memories that gather around it become more precious with time."}]]}],["$","section",null,{"className":"pause","children":["$","div",null,{"className":"wrap pause-inner","children":[["$","div",null,{"children":["$","h2",null,{"children":["Because little moments never stay ",["$","i",null,{"children":"little for long."}]]}]}],["$","p",null,{"children":"One day, the tiny clothes will no longer fit. The bedtime stories will become childhood memories. But the beginning of their story will always belong to you."}]]}]}],["$","section",null,{"className":"wrap statement","children":[["$","div",null,{"className":"mini-art garden","children":"❋"}],["$","div",null,{"children":[["$","p",null,{"className":"eyebrow","children":"A lasting form for love"}],["$","h2",null,{"children":"More than a photograph buried in a gallery."}],["$","p",null,{"children":"We believe that family memories deserve a form that can be held, read, shared, and loved for years. Little Adventures is a celebration of the imagination and real moments that make every family’s story unique."}],["$","$Ld",null,{"className":"button","href":"/stories","children":"Explore our storybooks"}]]}]]}]]}],null,["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]]}],"p":"$@11","v":null,"s":"$8"}}]]
+9:[["children",{"s":"about","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$b","s":"$8"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/3qdv0bwm7n4cm.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/1zktcqh4wnp0f.js","async":true}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","$L3",null,{}],["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}],["$","$L6",null,{}]]}]}]]}],"p":"$@7","v":null,"s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$f",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Little Adventures | Personalized Storybooks Made With Love"}],["$","meta","1",{"name":"description","content":"Beautifully illustrated personalized children’s adventures inspired by the little moments worth keeping."}]]}]}],null]}],null]}],"p":"$@16","v":null,"s":"$8"}},"a":"$@17","u":"$@18","b":"NZUzl2-5DWF4hJnbD9Ajz"}
+10:null
+8:300
+18:true
+8:C
+17:0
+a:"$undefined"
+7:"$undefined"
+16:"$undefined"
+11:"$undefined"

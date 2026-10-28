@@ -1,0 +1,2 @@
+import Link from 'next/link'; import {Book} from '@/data/books'; import {BookArt} from './book-art';
+export function StoryCard({book}:{book:Book}){return <article className="story-card"><Link href={`/stories/${book.slug}`} aria-label={`Read ${book.title} sample`}><BookArt book={book}/></Link><p className="eyebrow">{book.category} · {book.pages}</p><h3>{book.title}</h3><p>{book.description}</p><Link className="arrow" href={`/stories/${book.slug}`}>Read a sample <span>→</span></Link></article>}

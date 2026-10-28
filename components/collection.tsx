@@ -1,0 +1,4 @@
+'use client';
+import {useState} from 'react'; import {books} from '@/data/books'; import {StoryCard} from './story-card';
+const filters=['All Stories','Motherhood','New Baby','Adventure','Bedtime','Gifts'];
+export function Collection(){const [active,setActive]=useState('All Stories');const shown=active==='All Stories'?books:active==='Gifts'?books.filter(b=>b.category==='Motherhood'||b.category==='New Baby'):books.filter(b=>b.category===active);return <><div className="filters" role="group" aria-label="Filter books">{filters.map(f=><button className={active===f?'active':''} onClick={()=>setActive(f)} key={f}>{f}</button>)}</div><div className="story-grid">{shown.map(book=><StoryCard key={book.slug} book={book}/>)}</div>{!shown.length&&<p className="empty">No little adventures in this chapter just yet.</p>}</>}
